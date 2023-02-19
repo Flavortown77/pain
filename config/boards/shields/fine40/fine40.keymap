@@ -34,7 +34,7 @@
 				&kp LCTL  &kp LALT &trans   &trans   &mo 2 &kp SPACE &kp SPACE &trans &kp LEFT  &kp DOWN &kp RIGHT &kp LGUI
 			>;
 
-			sensor-bindings = <&inc_dec_kp &lt 0 &lt 1>;
+			sensor-bindings = <&inc_dec_kp &to 0 &to 1>;
 		};
 
 		right {
